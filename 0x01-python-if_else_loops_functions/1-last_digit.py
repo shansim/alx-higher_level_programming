@@ -8,4 +8,4 @@ for i in number[-1]:
     elif i[-1:] == str(0):
         print("Last digit of {} is {} and is 0".format(number, i[-1:]))
     elif i[-1:] < str(6) and i[-1:] != str(0):
-        print("Last digit of {} is {} and is less than 6 and not 0".format(number, i[-1:])) 
+        print("Last digit of {} is {} and is less than 6 and not 0".format(number, i[-1:]))
