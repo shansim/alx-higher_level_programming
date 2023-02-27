@@ -1,4 +1,4 @@
-## Python Projects From ALX-Coding school
+## A repository for SQL solutions
 
 
 
